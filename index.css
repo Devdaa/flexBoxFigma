@@ -17,6 +17,7 @@
 }
 
 .left {
+    margin: 0;
     width: 100vw;
     height: auto;
 }
@@ -28,6 +29,7 @@
 
 .right {
     border-radius: 22px;
+    width: 40vmax   ;
 }
 
 .right form{
@@ -81,6 +83,7 @@ button{
 }
 
 .socials{
+    margin: 30px;
     display: flex;
     flex-direction: row;
     justify-content: center;
